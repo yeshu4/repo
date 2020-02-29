@@ -1,27 +1,27 @@
-Feb 29, 2020 10:47:34 AM hudson.remoting.jnlp.Main createEngine
+Feb 29, 2020 2:41:50 PM hudson.remoting.jnlp.Main createEngine
 INFO: Setting up agent: test
-Feb 29, 2020 10:47:34 AM hudson.remoting.jnlp.Main$CuiListener <init>
+Feb 29, 2020 2:41:50 PM hudson.remoting.jnlp.Main$CuiListener <init>
 INFO: Jenkins agent is running in headless mode.
-Feb 29, 2020 10:47:34 AM hudson.remoting.Engine startEngine
+Feb 29, 2020 2:41:50 PM hudson.remoting.Engine startEngine
 INFO: Using Remoting version: 3.36.1
-Feb 29, 2020 10:47:34 AM org.jenkinsci.remoting.engine.WorkDirManager initializeWorkDir
+Feb 29, 2020 2:41:50 PM org.jenkinsci.remoting.engine.WorkDirManager initializeWorkDir
 INFO: Using /home/ubuntu/remoting as a remoting work directory
-Feb 29, 2020 10:47:34 AM hudson.remoting.jnlp.Main$CuiListener status
+Feb 29, 2020 2:41:50 PM hudson.remoting.jnlp.Main$CuiListener status
 INFO: Locating server among [http://3.87.232.143:8080/]
-Feb 29, 2020 10:47:34 AM org.jenkinsci.remoting.engine.JnlpAgentEndpointResolver resolve
+Feb 29, 2020 2:41:50 PM org.jenkinsci.remoting.engine.JnlpAgentEndpointResolver resolve
 INFO: Remoting server accepts the following protocols: [JNLP4-connect, Ping]
-Feb 29, 2020 10:47:34 AM hudson.remoting.jnlp.Main$CuiListener status
+Feb 29, 2020 2:41:50 PM hudson.remoting.jnlp.Main$CuiListener status
 INFO: Agent discovery successful
   Agent address: 3.87.232.143
   Agent port:    45921
   Identity:      4c:7a:70:3b:6e:85:a9:c0:2c:1e:68:6c:93:55:45:a3
-Feb 29, 2020 10:47:34 AM hudson.remoting.jnlp.Main$CuiListener status
+Feb 29, 2020 2:41:50 PM hudson.remoting.jnlp.Main$CuiListener status
 INFO: Handshaking
-Feb 29, 2020 10:47:34 AM hudson.remoting.jnlp.Main$CuiListener status
+Feb 29, 2020 2:41:50 PM hudson.remoting.jnlp.Main$CuiListener status
 INFO: Connecting to 3.87.232.143:45921
-Feb 29, 2020 10:47:34 AM hudson.remoting.jnlp.Main$CuiListener status
+Feb 29, 2020 2:41:50 PM hudson.remoting.jnlp.Main$CuiListener status
 INFO: Trying protocol: JNLP4-connect
-Feb 29, 2020 10:47:35 AM hudson.remoting.jnlp.Main$CuiListener status
+Feb 29, 2020 2:41:51 PM hudson.remoting.jnlp.Main$CuiListener status
 INFO: Remote identity confirmed: 4c:7a:70:3b:6e:85:a9:c0:2c:1e:68:6c:93:55:45:a3
-Feb 29, 2020 10:47:36 AM hudson.remoting.jnlp.Main$CuiListener status
+Feb 29, 2020 2:41:52 PM hudson.remoting.jnlp.Main$CuiListener status
 INFO: Connected
